@@ -45,6 +45,7 @@ namespace ProductReviewManagementSystem
                 Console.Write("1. Retrieve Top 3 Records Whose Rating is High\n" +
                     "2. Retrieve Records Whose Rating is Above 3 of ProductID 1, 4 & 9\n" +
                     "3. Retrieve Count Of Review Present For Each ProductID\n" +
+                    "4. Retrieve ProductId And Review\n" +
                     "Select One Option: ");
                 choice = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("____________________________________________________________\n");
@@ -58,6 +59,9 @@ namespace ProductReviewManagementSystem
                         break;
                     case 3:
                         management.RetrieveCountOfRecords(productReviewList);
+                        break;
+                    case 4:
+                        management.RetrieveProductIdAndReview(productReviewList);
                         break;
                     case 0:
                         Console.WriteLine("-----Thankyou-----");
