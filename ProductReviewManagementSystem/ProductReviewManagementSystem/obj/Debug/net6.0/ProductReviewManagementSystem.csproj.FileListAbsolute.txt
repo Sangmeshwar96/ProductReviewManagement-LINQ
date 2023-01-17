@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\bin\Debug\net6.0\ProductReviewManagementSystem.exe
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\bin\Debug\net6.0\ProductReviewManagementSystem.deps.json
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\bin\Debug\net6.0\ProductReviewManagementSystem.runtimeconfig.json
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\bin\Debug\net6.0\ProductReviewManagementSystem.dll
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\bin\Debug\net6.0\ProductReviewManagementSystem.pdb
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.AssemblyInfo.cs
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.dll
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\refint\ProductReviewManagementSystem.dll
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.pdb
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ProductReviewManagementSystem.genruntimeconfig.cache
+C:\Users\hp\source\repos\ProductReviewManagementSystem\ProductReviewManagementSystem\obj\Debug\net6.0\ref\ProductReviewManagementSystem.dll
